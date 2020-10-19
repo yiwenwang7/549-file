@@ -1,6 +1,6 @@
-SwimClub,SurfClub,FilmClub
-Judy 0,0,1
-Adam 0,1,0
-Cindy 0,0,0,1
-Jennie 1,0,0
+,SwimClub,SurfClub,FilmClub
+Judy,0,0,1
+Adam,0,1,0
+Cindy,0,0,0,1
+Jennie,1,0,0
 
